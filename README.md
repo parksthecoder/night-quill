@@ -1,6 +1,6 @@
 ## Night Quill Theme
 
-Night Quill is a meticulously crafted dark theme designed to reduce eye strain and enhance your coding experience. With its soothing color palette, Night Quill provides a perfect balance between aesthetics and functionality. The theme features:
+Night Quill is a meticulously crafted dark theme (for VS Code, Cursor, etc) designed to reduce eye strain and enhance your coding experience. With its soothing color palette, Night Quill provides a perfect balance between aesthetics and functionality. The theme features:
 
 - **Editor Colors**: A harmonious blend of deep blues and vibrant teals, ensuring that your code stands out without being harsh on the eyes.
 - **Scrollbars**: Subtle and unobtrusive, the scrollbars blend seamlessly with the background, providing a smooth scrolling experience.
@@ -17,4 +17,3 @@ Night Quill is a meticulously crafted dark theme designed to reduce eye strain a
 - **Panel**: A dark, distraction-free panel background that keeps your focus on the task at hand.
 
 Experience the perfect blend of style and functionality with the Night Quill theme, and transform your coding environment into a serene and productive workspace.
-

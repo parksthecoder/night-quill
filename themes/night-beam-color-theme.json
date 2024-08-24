@@ -261,7 +261,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#1AC6FF"
+        "foreground": "#00D8FF"
       }
     },
     {
@@ -285,7 +285,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#1AC6FF",
+        "foreground": "#00D8FF",
         "fontStyle": "italic"
       }
     },
