@@ -1,6 +1,6 @@
 {
-  "name": "night-beam",
-  "displayName": "Night Beam",
+  "name": "night-quill",
+  "displayName": "Night Quill",
   "description": "A dark theme with vibrant colors for VS Code",
   "version": "0.0.1",
   "publisher": "parksthecoder",
@@ -14,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Night Beam",
+        "label": "Night Quill",
         "uiTheme": "vs-dark",
-        "path": "./themes/night-beam-color-theme.json"
+        "path": "./themes/night-quill-color-theme.json"
       }
     ]
   }
