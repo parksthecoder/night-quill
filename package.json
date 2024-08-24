@@ -1,0 +1,23 @@
+{
+  "name": "night-beam",
+  "displayName": "Night Beam",
+  "description": "A dark theme with vibrant colors for VS Code",
+  "version": "0.0.1",
+  "publisher": "parksthecoder",
+  "repository": "",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Beam",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-beam-color-theme.json"
+      }
+    ]
+  }
+}
