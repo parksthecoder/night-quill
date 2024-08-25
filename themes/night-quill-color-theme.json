@@ -36,10 +36,10 @@
     "editor.rangeHighlightBackground": "#1c3a5e40",
 
     // Scrollbars
-    "scrollbar.shadow": "#091420",
-    "scrollbarSlider.background": "#4DFFE060",
-    "scrollbarSlider.hoverBackground": "#4DFFE080",
-    "scrollbarSlider.activeBackground": "#4DFFE0A0",
+    "scrollbar.shadow": "#09142000",
+    "scrollbarSlider.background": "#4DFFE030",
+    "scrollbarSlider.hoverBackground": "#4DFFE050",
+    "scrollbarSlider.activeBackground": "#4DFFE070",
 
     // Sidebar and Activity Bar
     "sideBar.background": "#0a1521",
@@ -48,25 +48,27 @@
     "sideBarSectionHeader.background": "#091420",
     "sideBarSectionHeader.foreground": "#4DFFE0",
     "activityBar.background": "#091420",
-    "activityBarBadge.background": "#4DFFE0",
+    "activityBarBadge.background": "#40E0D0",
     "activityBarBadge.foreground": "#091420",
 
     // Status Bar and Title Bar
     "statusBar.background": "#091420",
     "statusBar.foreground": "#4DFFE0",
-    "statusBar.border": "#4DFFE0",
+    "statusBar.border": "#40E0D0",
     "titleBar.activeBackground": "#091420",
     "titleBar.activeForeground": "#4DFFE0",
 
     // Tabs
     "editorGroupHeader.tabsBackground": "#091420",
-    "tab.inactiveBackground": "#091420",
-    "tab.activeBackground": "#0d1827",
-    "tab.activeForeground": "#40E0D0",
-    "tab.inactiveForeground": "#4DFFE0",
-    "tab.activeBorder": "#4DFFE0",
-    // "tab.activeBorderTop": "#4DFFE0",
-    "tab.unfocusedActiveBorder": "#1c7fee80",
+    "tab.inactiveBackground": "#0a1521",
+    "tab.activeBackground": "#0a1521",
+    "tab.activeForeground": "#4DFFE0",
+    "tab.inactiveForeground": "#E6F3FF",
+    "tab.activeBorder": "#40E0D0",
+    "tab.unfocusedActiveBorder": "#4DFFE080",
+    "tab.hoverBackground": "#1c3a5e20",
+    "tab.unfocusedActiveForeground": "#4DFFE0A0",
+    "tab.unfocusedInactiveForeground": "#E6F3FF80",
 
     // Lists
     "list.activeSelectionForeground": "#40E0D0",
@@ -131,14 +133,14 @@
 
     // Panel
     "panel.background": "#0a1521",
-    "panel.border": "#4DFFE0",
+    "panel.border": "#40E0D0",
     "panelTitle.activeBorder": "#4DFFE0",
     "panelTitle.activeForeground": "#4DFFE0",
     "panelTitle.inactiveForeground": "#E6F3FF80",
     "panelSectionHeader.background": "#091420",
     "panelSectionHeader.foreground": "#4DFFE0",
-    "panelSectionHeader.border": "#4DFFE080",
-    "panelInput.border": "#4DFFE080",
+    "panelSectionHeader.border": "#40E0D0",
+    "panelInput.border": "#40E0D0",
 
     // Problems and Errors
     "problemsErrorIcon.foreground": "#FF6B6B",
@@ -220,8 +222,34 @@
     "settings.checkboxBorder": "#0A84FF",
 
     // Debug
-    "debugToolBar.background": "#091420",
-    "debugToolBar.border": "#0A84FF",
+    // Debug
+    "debugToolBar.background": "#0a1521",
+    "debugToolBar.border": "#4DFFE0",
+    "debugIcon.startForeground": "#00FF9D",
+    "debugIcon.pauseForeground": "#FFE4B5",
+    "debugIcon.stopForeground": "#FF6B6B",
+    "debugIcon.restartForeground": "#0A84FF",
+    "debugIcon.disconnectForeground": "#FF6B9D",
+    "debugIcon.stepOverForeground": "#4DFFE0",
+    "debugIcon.stepIntoForeground": "#00FF9D",
+    "debugIcon.stepOutForeground": "#0A84FF",
+    "debugIcon.continueForeground": "#00FF9D",
+    "debugIcon.stepBackForeground": "#FF6B9D",
+    "debugConsole.infoForeground": "#0A84FF",
+    "debugConsole.warningForeground": "#FFE4B5",
+    "debugConsole.errorForeground": "#FF6B6B",
+    "debugConsole.sourceForeground": "#E6F3FF",
+    "debugConsoleInputIcon.foreground": "#4DFFE0",
+    "debugView.stateLabelForeground": "#E6F3FF",
+    "debugView.stateLabelBackground": "#091420",
+    "debugView.valueChangedHighlight": "#00FF9D",
+    "debugTokenExpression.name": "#0A84FF",
+    "debugTokenExpression.value": "#00FF9D",
+    "debugTokenExpression.string": "#4DFFE0",
+    "debugTokenExpression.boolean": "#FF6B9D",
+    "debugTokenExpression.number": "#FFE4B5",
+    "debugTokenExpression.error": "#FF6B6B",
+
     "editor.stackFrameHighlightBackground": "#4DFFE020",
     "editor.focusedStackFrameHighlightBackground": "#00FF9D20"
   },
@@ -393,7 +421,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#4DFFE0"
       }
     },
     {
