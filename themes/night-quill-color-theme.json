@@ -7,7 +7,7 @@
     "editor.lineHighlightBackground": "#1c3a5e60",
     "editorCursor.background": "#4DFFE020",
     "editorCursor.foreground": "#4DFFE0",
-    "editorLineNumber.foreground": "#4DFFE065",
+    "editorLineNumber.foreground": "#4DFFE050",
     "editorLineNumber.activeForeground": "#4DFFE0",
     "editorIndentGuide.activeBackground1": "#4DFFE065",
     "editorIndentGuide.activeBackground2": "#4DFFE065",
@@ -91,7 +91,7 @@
 
     // Input and Dropdown
     "input.background": "#091420",
-    "input.border": "#0A84FF",
+    "input.border": "#40E0D0",
     "input.foreground": "#E6F3FF",
     "input.placeholderForeground": "#E6F3FF80",
     "inputOption.activeBackground": "#0A84FF40",
