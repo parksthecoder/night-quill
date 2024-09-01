@@ -28,7 +28,7 @@
     // Selection and Find
     "editor.selectionForeground": "#00FF9D",
     "editor.selectionBackground": "#0A84FF40",
-    "editor.selectionHighlightBorder": "#4DFFE0",
+    "editor.selectionHighlightBorder": "#00FF9D",
     "editor.findRangeHighlightBackground": "#1c7fee20",
     "editor.findMatchBackground": "#0A84FF40",
     "editor.findMatchForeground": "#00FF9D",
@@ -220,7 +220,7 @@
     "minimapGutter.deletedBackground": "#FF6B6B",
 
     // Breadcrumbs
-    "breadcrumb.foreground": "#E6F3FF80",
+    "breadcrumb.foreground": "#4DFFE099",
     "breadcrumb.focusForeground": "#4DFFE0",
     "breadcrumb.activeSelectionForeground": "#00FF9D",
 
@@ -234,7 +234,6 @@
     "settings.checkboxForeground": "#00FF9D",
     "settings.checkboxBorder": "#0A84FF",
 
-    // Debug
     // Debug
     "debugToolBar.background": "#0a1521",
     "debugToolBar.border": "#4DFFE0",
@@ -396,7 +395,7 @@
       "name": "Numbers",
       "scope": ["constant.numeric", "constant.other.color"],
       "settings": {
-        "foreground": "#FFE4B5"
+        "foreground": "#FF7E5F"
       }
     },
     {
