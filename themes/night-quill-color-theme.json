@@ -218,31 +218,31 @@
     "titleBar.activeBackground": "#091420",
     "titleBar.activeForeground": "#4dffe0",
     //"actionBar.toggledBackground": "#0a84ff40",
-    //"activityBar.activeBorder": "#ffffff",
-    //"activityBar.dropBorder": "#ffffff",
-    //"activityBar.foreground": "#ffffff",
-    //"activityBar.inactiveForeground": "#ffffff66",
+    "activityBar.activeBorder": "#4dffe0",
+    "activityBar.dropBorder": "#4dffe0",
+    "activityBar.foreground": "#4dffe0",
+    "activityBar.inactiveForeground": "#4dffe080",
     //"activityBarTop.activeBorder": "#e7e7e7",
     //"activityBarTop.dropBorder": "#e7e7e7",
     //"activityBarTop.foreground": "#e7e7e7",
     //"activityBarTop.inactiveForeground": "#e7e7e799",
-    //"banner.background": "#1c7fee30",
-    //"banner.foreground": "#40e0d0",
-    //"banner.iconForeground": "#0a84ff",
+    "banner.background": "#091420",
+    "banner.foreground": "#4dffe0",
+    "banner.iconForeground": "#0a84ff",
     "breadcrumb.background": "#0d1827",
     //"breadcrumbPicker.background": "#0a1521",
-    //"button.secondaryBackground": "#3a3d41",
-    //"button.secondaryForeground": "#ffffff",
-    //"button.secondaryHoverBackground": "#45494e",
+    "button.secondaryBackground": "#091420",
+    "button.secondaryForeground": "#4dffe0",
+    "button.secondaryHoverBackground": "#1c3a5e",
     //"button.separator": "#e6f3ff66",
-    //"charts.blue": "#0a84ff",
-    //"charts.foreground": "#cccccc",
-    //"charts.green": "#89d185",
-    //"charts.lines": "#cccccc80",
-    //"charts.orange": "#00ff9d80",
-    //"charts.purple": "#b180d7",
-    //"charts.red": "#ff6b6b",
-    //"charts.yellow": "#ffe4b5",
+    "charts.blue": "#0a84ff",
+    "charts.foreground": "#e6f3ff",
+    "charts.green": "#00ff9d",
+    "charts.lines": "#4dffe080",
+    "charts.orange": "#ffe4b5",
+    "charts.purple": "#ff6b9d",
+    "charts.red": "#ff6b6b",
+    "charts.yellow": "#ffe4b5",
     //"chat.avatarBackground": "#1f1f1f",
     //"chat.avatarForeground": "#cccccc",
     //"chat.requestBackground": "#0d18279e",
@@ -591,9 +591,9 @@
     //"statusBar.debuggingBorder": "#40e0d0",
     //"statusBar.debuggingForeground": "#4dffe0",
     //"statusBar.focusBorder": "#4dffe0",
-    //"statusBar.noFolderBackground": "#68217a",
-    //"statusBar.noFolderBorder": "#40e0d0",
-    //"statusBar.noFolderForeground": "#4dffe0",
+    "statusBar.noFolderBackground": "#091420",
+    "statusBar.noFolderBorder": "#40e0d0",
+    "statusBar.noFolderForeground": "#4dffe0",
     //"statusBarItem.activeBackground": "#ffffff2e",
     //"statusBarItem.compactHoverBackground": "#ffffff33",
     //"statusBarItem.errorBackground": "#c72e0f",
@@ -607,28 +607,28 @@
     //"statusBarItem.offlineForeground": "#091420",
     //"statusBarItem.offlineHoverBackground": "#ffffff1f",
     //"statusBarItem.offlineHoverForeground": "#4dffe0",
-    //"statusBarItem.prominentBackground": "#00000080",
-    //"statusBarItem.prominentForeground": "#4dffe0",
-    //"statusBarItem.prominentHoverBackground": "#0000004d",
-    //"statusBarItem.prominentHoverForeground": "#4dffe0",
-    //"statusBarItem.remoteBackground": "#40e0d0",
-    //"statusBarItem.remoteForeground": "#091420",
-    //"statusBarItem.remoteHoverBackground": "#ffffff1f",
-    //"statusBarItem.remoteHoverForeground": "#4dffe0",
-    //"statusBarItem.warningBackground": "#ffa407",
-    //"statusBarItem.warningForeground": "#ffffff",
-    //"statusBarItem.warningHoverBackground": "#ffffff1f",
-    //"statusBarItem.warningHoverForeground": "#4dffe0",
-    //"symbolIcon.arrayForeground": "#cccccc",
-    //"symbolIcon.booleanForeground": "#cccccc",
-    //"symbolIcon.classForeground": "#ee9d28",
-    //"symbolIcon.colorForeground": "#cccccc",
-    //"symbolIcon.constantForeground": "#cccccc",
-    //"symbolIcon.constructorForeground": "#b180d7",
-    //"symbolIcon.enumeratorForeground": "#ee9d28",
-    //"symbolIcon.enumeratorMemberForeground": "#75beff",
-    //"symbolIcon.eventForeground": "#ee9d28",
-    //"symbolIcon.fieldForeground": "#75beff",
+    "statusBarItem.prominentBackground": "#091420",
+    "statusBarItem.prominentForeground": "#4dffe0",
+    "statusBarItem.prominentHoverBackground": "#1c3a5e",
+    "statusBarItem.prominentHoverForeground": "#4dffe0",
+    "statusBarItem.remoteBackground": "#40e0d0",
+    "statusBarItem.remoteForeground": "#091420",
+    "statusBarItem.remoteHoverBackground": "#1c3a5e",
+    "statusBarItem.remoteHoverForeground": "#4dffe0",
+    "statusBarItem.warningBackground": "#ffe4b5",
+    "statusBarItem.warningForeground": "#091420",
+    "statusBarItem.warningHoverBackground": "#1c3a5e",
+    "statusBarItem.warningHoverForeground": "#4dffe0",
+    "symbolIcon.arrayForeground": "#0a84ff",
+    "symbolIcon.booleanForeground": "#4dffe0",
+    "symbolIcon.classForeground": "#00ff9d",
+    "symbolIcon.colorForeground": "#40e0d0",
+    "symbolIcon.constantForeground": "#ffe4b5",
+    "symbolIcon.constructorForeground": "#ff6b9d",
+    "symbolIcon.enumeratorForeground": "#00ffbf",
+    "symbolIcon.enumeratorMemberForeground": "#0a84ff",
+    "symbolIcon.eventForeground": "#ff6b6b",
+    "symbolIcon.fieldForeground": "#0a84ff",
     //"symbolIcon.fileForeground": "#cccccc",
     //"symbolIcon.folderForeground": "#cccccc",
     //"symbolIcon.functionForeground": "#b180d7",
@@ -801,7 +801,7 @@
     //"sideBarStickyScroll.border": null,
     //"tab.activeBorderTop": null,
     //"tab.hoverBorder": null,
-    "tab.hoverForeground": "#4dffe0",
+    "tab.hoverForeground": "#4dffe0"
     //"tab.selectedBorderTop": null,
     //"tab.unfocusedActiveBorderTop": null,
     //"tab.unfocusedHoverBorder": null,
@@ -1151,7 +1151,7 @@
     },
     {
       "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#F0827D",
@@ -1160,7 +1160,7 @@
     },
     {
       "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#B39DDB",
@@ -1169,7 +1169,7 @@
     },
     {
       "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#FFD700",
@@ -1178,7 +1178,7 @@
     },
     {
       "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#82AAFF",
@@ -1187,7 +1187,7 @@
     },
     {
       "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#C792EA",
